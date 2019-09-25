@@ -1,0 +1,1301 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'SW[0]'
+Slack : -6.118
+TNS   : -148.813
+
+Type  : Slow 1100mV 85C Model Setup 'Clock_50'
+Slack : -2.784
+TNS   : -5.504
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -2.417
+TNS   : -4.564
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : -2.242
+TNS   : -2.242
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : -2.207
+TNS   : -2.207
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : -2.151
+TNS   : -2.151
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : -2.104
+TNS   : -2.104
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : -2.065
+TNS   : -2.065
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : -2.025
+TNS   : -2.025
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : -2.007
+TNS   : -2.007
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : -2.001
+TNS   : -2.001
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : -1.989
+TNS   : -1.989
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : -1.983
+TNS   : -1.983
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : -1.961
+TNS   : -1.961
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : -1.949
+TNS   : -1.949
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : -1.930
+TNS   : -1.930
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : -1.925
+TNS   : -1.925
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : -1.921
+TNS   : -3.742
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : -1.868
+TNS   : -1.868
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : -1.853
+TNS   : -1.853
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : -1.850
+TNS   : -1.850
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : -1.847
+TNS   : -1.847
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : -1.836
+TNS   : -1.836
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : -1.821
+TNS   : -1.821
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : -1.795
+TNS   : -1.795
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : -1.755
+TNS   : -1.755
+
+Type  : Slow 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : -1.164
+TNS   : -1.164
+
+Type  : Slow 1100mV 85C Model Hold 'SW[0]'
+Slack : -0.244
+TNS   : -2.064
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : 0.455
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : 0.483
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : 0.487
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : 0.502
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : 0.503
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : 0.520
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : 0.526
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : 0.547
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : 0.556
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : 0.561
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : 0.565
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : 0.578
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : 0.602
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : 0.616
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : 0.620
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : 0.646
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : 0.665
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : 0.780
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : 0.791
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'Clock_50'
+Slack : 0.926
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'SW[0]'
+Slack : -1.092
+TNS   : -111.466
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -0.538
+TNS   : -1.940
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.538
+TNS   : -1.905
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : -0.538
+TNS   : -1.738
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : -0.538
+TNS   : -0.879
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : -0.538
+TNS   : -0.879
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : -0.538
+TNS   : -0.878
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : -0.538
+TNS   : -0.876
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : -0.538
+TNS   : -0.875
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : -0.538
+TNS   : -0.872
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : -0.538
+TNS   : -0.850
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : -0.538
+TNS   : -0.847
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : -0.538
+TNS   : -0.845
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : -0.538
+TNS   : -0.839
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : -0.538
+TNS   : -0.801
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : -0.538
+TNS   : -0.793
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : -0.538
+TNS   : -0.787
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : -0.538
+TNS   : -0.784
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : -0.538
+TNS   : -0.783
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : -0.538
+TNS   : -0.782
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : -0.538
+TNS   : -0.781
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : -0.538
+TNS   : -0.780
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : -0.538
+TNS   : -0.779
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : -0.538
+TNS   : -0.777
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : -0.538
+TNS   : -0.775
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : -0.538
+TNS   : -0.771
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : -0.538
+TNS   : -0.770
+
+Type  : Slow 1100mV 0C Model Setup 'SW[0]'
+Slack : -6.197
+TNS   : -148.602
+
+Type  : Slow 1100mV 0C Model Setup 'Clock_50'
+Slack : -2.575
+TNS   : -5.102
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -2.399
+TNS   : -4.550
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : -2.218
+TNS   : -2.218
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : -2.182
+TNS   : -2.182
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : -2.078
+TNS   : -2.078
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : -2.067
+TNS   : -2.067
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : -2.048
+TNS   : -2.048
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : -2.048
+TNS   : -2.048
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : -2.032
+TNS   : -2.032
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : -1.963
+TNS   : -1.963
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : -1.963
+TNS   : -1.963
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : -1.954
+TNS   : -1.954
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : -1.952
+TNS   : -1.952
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : -1.920
+TNS   : -1.920
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : -1.918
+TNS   : -1.918
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : -1.914
+TNS   : -3.646
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : -1.880
+TNS   : -1.880
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : -1.838
+TNS   : -1.838
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : -1.831
+TNS   : -1.831
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : -1.827
+TNS   : -1.827
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : -1.820
+TNS   : -1.820
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : -1.809
+TNS   : -1.809
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : -1.772
+TNS   : -1.772
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : -1.750
+TNS   : -1.750
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : -1.700
+TNS   : -1.700
+
+Type  : Slow 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : -1.106
+TNS   : -1.106
+
+Type  : Slow 1100mV 0C Model Hold 'SW[0]'
+Slack : -0.340
+TNS   : -4.190
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : 0.444
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : 0.485
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : 0.487
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : 0.492
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : 0.515
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : 0.533
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : 0.558
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : 0.560
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : 0.563
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : 0.564
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : 0.569
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : 0.575
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : 0.582
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : 0.583
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : 0.587
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : 0.587
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : 0.640
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : 0.672
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : 0.700
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : 0.705
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : 0.723
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'Clock_50'
+Slack : 0.737
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : 0.796
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : 0.832
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'SW[0]'
+Slack : -1.091
+TNS   : -111.716
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.538
+TNS   : -1.943
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -0.538
+TNS   : -1.942
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : -0.538
+TNS   : -1.617
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : -0.538
+TNS   : -0.847
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : -0.538
+TNS   : -0.824
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : -0.538
+TNS   : -0.823
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : -0.538
+TNS   : -0.823
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : -0.538
+TNS   : -0.822
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : -0.538
+TNS   : -0.821
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : -0.538
+TNS   : -0.819
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : -0.538
+TNS   : -0.798
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : -0.538
+TNS   : -0.786
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : -0.538
+TNS   : -0.785
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : -0.538
+TNS   : -0.783
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : -0.538
+TNS   : -0.779
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : -0.538
+TNS   : -0.778
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : -0.538
+TNS   : -0.778
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : -0.538
+TNS   : -0.776
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : -0.538
+TNS   : -0.776
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : -0.538
+TNS   : -0.776
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : -0.538
+TNS   : -0.775
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : -0.538
+TNS   : -0.775
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : -0.538
+TNS   : -0.772
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : -0.538
+TNS   : -0.772
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : -0.538
+TNS   : -0.769
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : -0.538
+TNS   : -0.768
+
+Type  : Fast 1100mV 85C Model Setup 'SW[0]'
+Slack : -2.699
+TNS   : -64.579
+
+Type  : Fast 1100mV 85C Model Setup 'Clock_50'
+Slack : -1.952
+TNS   : -3.901
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -1.245
+TNS   : -2.222
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : -1.176
+TNS   : -1.176
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : -1.140
+TNS   : -1.140
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : -1.121
+TNS   : -1.121
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : -1.081
+TNS   : -1.081
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : -1.070
+TNS   : -1.070
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : -1.067
+TNS   : -1.067
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : -1.062
+TNS   : -1.062
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : -1.028
+TNS   : -1.028
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : -1.027
+TNS   : -1.027
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : -0.994
+TNS   : -0.994
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : -0.989
+TNS   : -0.989
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : -0.988
+TNS   : -0.988
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : -0.967
+TNS   : -0.967
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : -0.961
+TNS   : -0.961
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : -0.958
+TNS   : -1.905
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : -0.957
+TNS   : -0.957
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : -0.949
+TNS   : -0.949
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : -0.919
+TNS   : -0.919
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : -0.917
+TNS   : -0.917
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : -0.907
+TNS   : -0.907
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : -0.881
+TNS   : -0.881
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : -0.869
+TNS   : -0.869
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : -0.858
+TNS   : -0.858
+
+Type  : Fast 1100mV 85C Model Setup 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : -0.208
+TNS   : -0.208
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : 0.055
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : 0.078
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : 0.100
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : 0.220
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : 0.270
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : 0.332
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'SW[0]'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'Clock_50'
+Slack : 0.880
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'SW[0]'
+Slack : -0.709
+TNS   : -32.896
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.411
+TNS   : -0.920
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -0.069
+TNS   : -0.138
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : 0.110
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : 0.137
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'SW[0]'
+Slack : -2.511
+TNS   : -58.628
+
+Type  : Fast 1100mV 0C Model Setup 'Clock_50'
+Slack : -1.589
+TNS   : -3.168
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -1.122
+TNS   : -1.952
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : -1.051
+TNS   : -1.051
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : -0.986
+TNS   : -0.986
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : -0.977
+TNS   : -0.977
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : -0.970
+TNS   : -0.970
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : -0.965
+TNS   : -0.965
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : -0.961
+TNS   : -0.961
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : -0.930
+TNS   : -0.930
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : -0.919
+TNS   : -0.919
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : -0.917
+TNS   : -0.917
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : -0.884
+TNS   : -0.884
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : -0.883
+TNS   : -0.883
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : -0.879
+TNS   : -0.879
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : -0.874
+TNS   : -0.874
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : -0.867
+TNS   : -0.867
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : -0.865
+TNS   : -1.702
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : -0.863
+TNS   : -0.863
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : -0.834
+TNS   : -0.834
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : -0.831
+TNS   : -0.831
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : -0.827
+TNS   : -0.827
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : -0.817
+TNS   : -0.817
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : -0.813
+TNS   : -0.813
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : -0.797
+TNS   : -0.797
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : -0.795
+TNS   : -0.795
+
+Type  : Fast 1100mV 0C Model Setup 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : -0.151
+TNS   : -0.151
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : 0.052
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : 0.070
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : 0.074
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : 0.083
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : 0.085
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : 0.088
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : 0.096
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : 0.099
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : 0.116
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : 0.144
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : 0.154
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : 0.175
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : 0.204
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : 0.217
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : 0.268
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : 0.280
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : 0.333
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'SW[0]'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'Clock_50'
+Slack : 0.596
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'SW[0]'
+Slack : -0.696
+TNS   : -32.531
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'Clock_50'
+Slack : -0.412
+TNS   : -0.917
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF16|Qn'
+Slack : -0.042
+TNS   : -0.084
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF0|Qn'
+Slack : 0.021
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF18|Qn'
+Slack : 0.076
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF23|Qn'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF1|Qn'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF13|Qn'
+Slack : 0.113
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF24|Qn'
+Slack : 0.119
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF4|Qn'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF12|Qn'
+Slack : 0.127
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF21|Qn'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF19|Qn'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF9|Qn'
+Slack : 0.131
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF22|Qn'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF17|Qn'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF20|Qn'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF3|Qn'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF5|Qn'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF8|Qn'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF7|Qn'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF10|Qn'
+Slack : 0.146
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF15|Qn'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF14|Qn'
+Slack : 0.157
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF6|Qn'
+Slack : 0.157
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF2|Qn'
+Slack : 0.159
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_div_2ton:FU|dflipflop:DFF11|Qn'
+Slack : 0.163
+TNS   : 0.000
+
+------------------------------------------------------------

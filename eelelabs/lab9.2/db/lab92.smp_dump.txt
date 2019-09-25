@@ -1,0 +1,14 @@
+
+State Machine - |top|current_state
+Name current_state.Walking_Out9 current_state.Walking_Out8 current_state.Walking_Out7 current_state.Walking_Out6 current_state.Walking_Out5 current_state.Walking_Out4 current_state.Walking_Out3 current_state.Walking_Out2 current_state.Walking_Out1 current_state.Walking_Out0 current_state.reset_state 
+current_state.reset_state 0 0 0 0 0 0 0 0 0 0 0 
+current_state.Walking_Out0 0 0 0 0 0 0 0 0 0 1 1 
+current_state.Walking_Out1 0 0 0 0 0 0 0 0 1 0 1 
+current_state.Walking_Out2 0 0 0 0 0 0 0 1 0 0 1 
+current_state.Walking_Out3 0 0 0 0 0 0 1 0 0 0 1 
+current_state.Walking_Out4 0 0 0 0 0 1 0 0 0 0 1 
+current_state.Walking_Out5 0 0 0 0 1 0 0 0 0 0 1 
+current_state.Walking_Out6 0 0 0 1 0 0 0 0 0 0 1 
+current_state.Walking_Out7 0 0 1 0 0 0 0 0 0 0 1 
+current_state.Walking_Out8 0 1 0 0 0 0 0 0 0 0 1 
+current_state.Walking_Out9 1 0 0 0 0 0 0 0 0 0 1 

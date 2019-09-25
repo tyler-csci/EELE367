@@ -1,0 +1,170 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Eadd_n_sub_8bit
+Z0 w1563810088
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/tWin/Desktop/hw12.2
+Z5 8C:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit.vhd
+Z6 FC:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit.vhd
+l0
+L5
+VH[j91hPoZnL0nnzzA9VN^2
+!s100 a?A=0?G1`IQhP:DV[JU:X1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1563810413
+!i10b 1
+Z9 !s108 1563810413.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit.vhd|
+Z11 !s107 C:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aadd_n_sub_8bit_arch
+R1
+R2
+R3
+DEx4 work 14 add_n_sub_8bit 0 22 H[j91hPoZnL0nnzzA9VN^2
+l28
+L14
+Vi<XNgY3@c3kQb4Ai:B_`z2
+!s100 O?NRdU0]S^0W814g<L:TP1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eadd_n_sub_8bit_tb
+Z14 w1563810079
+R1
+R2
+R3
+R4
+Z15 8C:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit_TB.vhd
+Z16 FC:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit_TB.vhd
+l0
+L5
+V=dAE2^C?_Gcm8;iLn1Mjk1
+!s100 bDPCkjG?Mjh619c^4LoUd2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit_TB.vhd|
+Z18 !s107 C:\Users\tWin\Desktop\hw12.2\add_n_sub_8bit_TB.vhd|
+!i113 1
+R12
+R13
+Aadd_n_sub_8bit_tb_arch
+R1
+R2
+R3
+DEx4 work 17 add_n_sub_8bit_tb 0 22 =dAE2^C?_Gcm8;iLn1Mjk1
+l21
+L8
+V=Z22j_?QND1IlAhzS4K_l3
+!s100 VhAE89T63PdzR965XR9Bh2
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Efull_adder
+Z19 w1563810106
+R2
+R3
+R4
+Z20 8C:\Users\tWin\Desktop\hw12.2\full_adder.vhd
+Z21 FC:\Users\tWin\Desktop\hw12.2\full_adder.vhd
+l0
+L4
+Vz^R[lkK6S==8fXTB`Bf=K3
+!s100 D`Re4KbXMo>CN08B`Nz]m0
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\hw12.2\full_adder.vhd|
+Z23 !s107 C:\Users\tWin\Desktop\hw12.2\full_adder.vhd|
+!i113 1
+R12
+R13
+Afull_adder_arch
+R2
+R3
+DEx4 work 10 full_adder 0 22 z^R[lkK6S==8fXTB`Bf=K3
+l18
+L9
+VTN>1JYP8Daddz0?Q=fGaf3
+!s100 l1h2o4fH63JH=KA=aCkl23
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Ehalf_adder
+Z24 w1563810097
+R2
+R3
+R4
+Z25 8C:\Users\tWin\Desktop\hw12.2\half_adder.vhd
+Z26 FC:\Users\tWin\Desktop\hw12.2\half_adder.vhd
+l0
+L4
+Vi8cC0ZjJ5EOBYEU8jO<cd0
+!s100 _JU4Tf?d2RSIk:Y[E7OVd1
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\hw12.2\half_adder.vhd|
+Z28 !s107 C:\Users\tWin\Desktop\hw12.2\half_adder.vhd|
+!i113 1
+R12
+R13
+Ahalf_adder_arch
+R2
+R3
+Z29 DEx4 work 10 half_adder 0 22 i8cC0ZjJ5EOBYEU8jO<cd0
+l11
+L9
+Z30 V0;EdL67LJD8W8mFggf3=:1
+Z31 !s100 n[iZFa;;j;Z`Nj4WkX<LJ2
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13

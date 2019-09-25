@@ -1,0 +1,371 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Ealu
+Z0 w1564114602
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/tWin/Desktop/eeleproject/part1
+Z5 8C:\Users\tWin\Desktop\eeleproject\part1\alu.vhd
+Z6 FC:\Users\tWin\Desktop\eeleproject\part1\alu.vhd
+l0
+L5
+VbPKo^aW]7gU<>c_gPAnnE0
+!s100 ZL==9kVffg_G9Z^b5M<__1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1564114607
+!i10b 1
+Z9 !s108 1564114607.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\alu.vhd|
+Z11 !s107 C:\Users\tWin\Desktop\eeleproject\part1\alu.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aalu_arch
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 bPKo^aW]7gU<>c_gPAnnE0
+l14
+L13
+VKT;G><6J>IHDWSiz`enZ>3
+!s100 3mmfAjmARC9PcVUY;moY32
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomputer
+Z14 w1564111193
+R2
+R3
+R4
+Z15 8C:\Users\tWin\Desktop\eeleproject\part1\computer.vhd
+Z16 FC:\Users\tWin\Desktop\eeleproject\part1\computer.vhd
+l0
+L4
+V_iCR3gT9_ZKV6QVbk6Ed;0
+!s100 E0DOQH62>2CI1iC@ehnWW2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\computer.vhd|
+Z18 !s107 C:\Users\tWin\Desktop\eeleproject\part1\computer.vhd|
+!i113 1
+R12
+R13
+Acomputer_arch
+R2
+R3
+DEx4 work 8 computer 0 22 _iCR3gT9_ZKV6QVbk6Ed;0
+l97
+L41
+VUSCdnQQ;c`O9ck[]@<E3P3
+!s100 l9K3W:AO2PeU2>I<Z0PO92
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ecomputer_tb
+Z19 w1563954047
+R2
+R3
+R4
+Z20 8C:/Users/tWin/Desktop/eeleproject/part1/computer_TB.vhd
+Z21 FC:/Users/tWin/Desktop/eeleproject/part1/computer_TB.vhd
+l0
+L16
+VP8`Cj6HU18Y??ADo`SBn12
+!s100 d<6MW?j?c1l3>1fVM:nej0
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/tWin/Desktop/eeleproject/part1/computer_TB.vhd|
+Z23 !s107 C:/Users/tWin/Desktop/eeleproject/part1/computer_TB.vhd|
+!i113 1
+R12
+R13
+Acomputer_tb_arch
+R2
+R3
+DEx4 work 11 computer_tb 0 22 P8`Cj6HU18Y??ADo`SBn12
+l99
+L19
+V8<LZ4HJc>956FV5g<?8SJ1
+!s100 Q9]]@:lLki;cHNHdi[:6D0
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12
+R13
+Econtrol_unit
+Z24 w1564114571
+R2
+R3
+R4
+Z25 8C:\Users\tWin\Desktop\eeleproject\part1\control_unit.vhd
+Z26 FC:\Users\tWin\Desktop\eeleproject\part1\control_unit.vhd
+l0
+L4
+V4^1oLkn6@T;aEbaUS3>A82
+!s100 87=1N=4XNP99JnMRnmSDI2
+R7
+32
+R8
+!i10b 1
+R9
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\control_unit.vhd|
+Z28 !s107 C:\Users\tWin\Desktop\eeleproject\part1\control_unit.vhd|
+!i113 1
+R12
+R13
+Acontrol_unit_arch
+R2
+R3
+DEx4 work 12 control_unit 0 22 4^1oLkn6@T;aEbaUS3>A82
+l53
+L22
+V[kl9GWD;gi;if[[>]P>>Q0
+!s100 VcR1ab>G`SneIVE_O7AY;0
+R7
+32
+R8
+!i10b 1
+R9
+R27
+R28
+!i113 1
+R12
+R13
+Ecpu
+Z29 w1564111517
+R2
+R3
+R4
+Z30 8C:\Users\tWin\Desktop\eeleproject\part1\cpu.vhd
+Z31 FC:\Users\tWin\Desktop\eeleproject\part1\cpu.vhd
+l0
+L4
+V5MeKRd`IY[TWYlG`[z9f<0
+!s100 Qb7KZ[7Xo4MIMYi]RfjFz0
+R7
+32
+R8
+!i10b 1
+R9
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\cpu.vhd|
+Z33 !s107 C:\Users\tWin\Desktop\eeleproject\part1\cpu.vhd|
+!i113 1
+R12
+R13
+Acpu_arch
+R2
+R3
+DEx4 work 3 cpu 0 22 5MeKRd`IY[TWYlG`[z9f<0
+l58
+L13
+V90_ORAG1Qb4dmnhl8A]8[2
+!s100 kPV?gz^OVlS^6PC?B^5a02
+R7
+32
+R8
+!i10b 1
+R9
+R32
+R33
+!i113 1
+R12
+R13
+Edata_path
+Z34 w1564111575
+R1
+R2
+R3
+R4
+Z35 8C:\Users\tWin\Desktop\eeleproject\part1\data_path.vhd
+Z36 FC:\Users\tWin\Desktop\eeleproject\part1\data_path.vhd
+l0
+L5
+V0SD3g3AU=X314?AWElCk]1
+!s100 hLaadh=BkFkdf=N6I5GPf0
+R7
+32
+R8
+!i10b 1
+R9
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\data_path.vhd|
+Z38 !s107 C:\Users\tWin\Desktop\eeleproject\part1\data_path.vhd|
+!i113 1
+R12
+R13
+Adata_path_arch
+R1
+R2
+R3
+DEx4 work 9 data_path 0 22 0SD3g3AU=X314?AWElCk]1
+l38
+L25
+VTbCo``ebnb^znfT]:R1Zf0
+!s100 ]AC6cGLmbMG;4RR[Jbh_[2
+R7
+32
+R8
+!i10b 1
+R9
+R37
+R38
+!i113 1
+R12
+R13
+Ememory
+Z39 w1564110886
+R1
+R2
+R3
+R4
+Z40 8C:\Users\tWin\Desktop\eeleproject\part1\memory.vhd
+Z41 FC:\Users\tWin\Desktop\eeleproject\part1\memory.vhd
+l0
+L5
+VfMZ=C>M6Xenf4ERH[?e>>1
+!s100 UT]U=Hf_?3^nSeQCDI:hP2
+R7
+32
+R8
+!i10b 1
+R9
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\memory.vhd|
+Z43 !s107 C:\Users\tWin\Desktop\eeleproject\part1\memory.vhd|
+!i113 1
+R12
+R13
+Amemory_arch
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 fMZ=C>M6Xenf4ERH[?e>>1
+l66
+L47
+Vkh>d<blD:]TLFH3Q3k5Fb3
+!s100 `TC4R_UE?oQ;cDc28G9f?2
+R7
+32
+R8
+!i10b 1
+R9
+R42
+R43
+!i113 1
+R12
+R13
+Erom_128x8_sync
+Z44 w1564114562
+R1
+R2
+R3
+R4
+Z45 8C:\Users\tWin\Desktop\eeleproject\part1\rom_128x8_sync.vhd
+Z46 FC:\Users\tWin\Desktop\eeleproject\part1\rom_128x8_sync.vhd
+l0
+L5
+VXMVcP5VeW=WVW[MdkmP_n1
+!s100 PC5Rh88iDZkLV<LU29?d51
+R7
+32
+Z47 !s110 1564114608
+!i10b 1
+R9
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\rom_128x8_sync.vhd|
+Z49 !s107 C:\Users\tWin\Desktop\eeleproject\part1\rom_128x8_sync.vhd|
+!i113 1
+R12
+R13
+Arom_128x8_sync_arch
+R1
+R2
+R3
+DEx4 work 14 rom_128x8_sync 0 22 XMVcP5VeW=WVW[MdkmP_n1
+l48
+L11
+V6ndh0A?BfnU<7P0?CdA@:2
+!s100 VRFWo[9YbKEccMQaD_lO:3
+R7
+32
+R47
+!i10b 1
+R9
+R48
+R49
+!i113 1
+R12
+R13
+Erw_96x8_sync
+Z50 w1564114557
+R1
+R2
+R3
+R4
+Z51 8C:\Users\tWin\Desktop\eeleproject\part1\rw_96x8_sync.vhd
+Z52 FC:\Users\tWin\Desktop\eeleproject\part1\rw_96x8_sync.vhd
+l0
+L5
+VaLhEfC`WaSjioCddclg5O3
+!s100 m]8ZFd@5PM9cVkRz=A3zc2
+R7
+32
+R47
+!i10b 1
+Z53 !s108 1564114608.000000
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\tWin\Desktop\eeleproject\part1\rw_96x8_sync.vhd|
+Z55 !s107 C:\Users\tWin\Desktop\eeleproject\part1\rw_96x8_sync.vhd|
+!i113 1
+R12
+R13
+Arw_96x8_sync_arch
+R1
+R2
+R3
+Z56 DEx4 work 12 rw_96x8_sync 0 22 aLhEfC`WaSjioCddclg5O3
+l19
+L13
+V:26i3Y9g_DBA:iDX@BJAO0
+!s100 >i[47g^GY0d<CP6;FmUU:0
+R7
+32
+R47
+!i10b 1
+R53
+R54
+R55
+!i113 1
+R12
+R13
